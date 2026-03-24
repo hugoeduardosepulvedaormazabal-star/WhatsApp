@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Clientes Planificados",
+  "description": "Una aplicación para cargar datos desde un CSV, crear plantillas personalizadas y enviar mensajes por WhatsApp de forma masiva a tus contactos.",
+  "requestFramePermissions": []
+}
